@@ -16,13 +16,12 @@
 }
 
 .active {
-    background-color: black;
     transform: rotate(3690deg);
     border-bottom: 100px solid #53ff32;
     border-top: 100px solid darkgreen;
     border-right: 100px solid pink;
     border-left: 100px solid purple;    
-    
+    background-color: black;
 
 }
 
