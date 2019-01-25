@@ -17,10 +17,10 @@
 
 .active {
     transform: rotate(3690deg);
-    border-bottom: 100px solid #53ff32;
-    border-top: 100px solid darkgreen;
-    border-right: 100px solid pink;
-    border-left: 100px solid purple;    
+    border-bottom: 50px solid #53ff32;
+    border-top: 50px solid darkgreen;
+    border-right: 50px solid pink;
+    border-left: 50px solid purple;    
     background-color: black;
 
 }
