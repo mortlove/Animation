@@ -12,7 +12,7 @@
 ## Technologies
 - HTML5 
 - CSS3
-- jQuery
+- jQuery 3.3.1
 
 ## Status
 - Done
